@@ -1,15 +1,13 @@
 <h1 align="center">Hola 👋, Soy Lucas</h1>
 <h3 align="center">Un apasionado desarrollador fullstack de Argentina</h3>
 
-- 🔭 Trabaje en el desarollo de aplicaciones como [PI Food](-food-main-pied.vercel.app)
-
-- 🌱 I’m currently learning **React Native, Python**
-
+- 🔭 Trabajé en el desarollo de aplicaciones como [PI Food](-food-main-pied.vercel.app)
 - 🔭 Trabaje en equipo en el desarrollo de un ecommerce destinado a la venta de libros [The Literary Corner](-henry-bookstore.vercel.app)
+- 🌱 Actualmente aprendiendo **React Native, Python**
 
 - 👨‍💻 Mi portafolio [robledolucas.vercel.app](robledolucas.vercel.app)
 
-- 📫 How to reach me **lucas3leo94@gmail.com**
+- 📫 Mi correo **lucas3leo94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
