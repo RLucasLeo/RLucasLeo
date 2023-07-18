@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Lucas</h1>
 <h3 align="center">Un apasionado desarrollador fullstack de Argentina</h3>
 
--¡Hola! Soy Lucas, un desarrollador web fullstack con experiencia en la creación de soluciones digitales y un enfoque principal en el desarrollo frontend. Me especializo en crear experiencias interactivas y atractivas para los usuarios. Graduado del bootcamp SoyHenry y actual estudiante de la carrera de Ingeniería en Sistemas en UTN, he adquirido conocimientos sólidos en diversos lenguajes de programación y tecnologías.
+- ¡Hola! Soy Lucas, un desarrollador web fullstack con experiencia en la creación de soluciones digitales y un enfoque principal en el desarrollo frontend. Me especializo en crear experiencias interactivas y atractivas para los usuarios. Graduado del bootcamp SoyHenry y actual estudiante de la carrera de Ingeniería en Sistemas en UTN, he adquirido conocimientos sólidos en diversos lenguajes de programación y tecnologías.
 
 Durante mi formación, tuve la oportunidad de trabajar en emocionantes proyectos, incluyendo la creación de una REST API y un exitoso ecommerce. Siempre estoy en busca de nuevos desafíos que me permitan innovar y aprender constantemente, combinando mis habilidades técnicas con mi pasión por el diseño y la usabilidad. Estoy emocionado por compartir mi trabajo y colaborar en proyectos que impulsen la presencia en línea de las empresas y mejoren la experiencia de los usuarios.
 
