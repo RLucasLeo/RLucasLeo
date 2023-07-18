@@ -1,11 +1,12 @@
 <h1 align="center">Hola 👋, Soy Lucas</h1>
 <h3 align="center">Un apasionado desarrollador fullstack de Argentina</h3>
 
-- Empecé en el mundo de la programación cuando inicié mi carrera de ingeniería en sistemas, empezando a aprender de manera didáctica fuí desarrollando pequeños proyectos y hoy manejo tecnologías y herramientas como: React Node Express y base de datos como PostgreSQL y MySQL.
-- Me gusta trabajar el desarrollo frontend aunque tambien se desempeñarme en el backend
-- 🔭 Trabajé en el desarollo de aplicaciones como [PI Food](-food-main-pied.vercel.app)
-- 🔭 Trabaje en equipo en el desarrollo de un ecommerce destinado a la venta de libros [The Literary Corner](-henry-bookstore.vercel.app)
+- Cuento con experiencia en la creación de soluciones digitales. Mi enfoque principal se centra en el desarrollo frontend, donde me especializo en crear experiencias interactivas y atractivas para los usuarios. Graduado del bootcamp SoyHenry y actual estudiante de la carrera de Ingeniería en Sistemas en UTN, he adquirido conocimientos sólidos en diversos lenguajes de programación y tecnologías. Durante mi formación, tuve la oportunidad de trabajar en emocionantes proyectos, incluyendo la creación de una REST API y un exitoso ecommerce. Siempre estoy en busca de nuevos desafíos que me permitan innovar y aprender constantemente, combinando mis habilidades técnicas con mi pasión por el diseño y la usabilidad. Estoy emocionado por compartir mi trabajo y colaborar en proyectos que impulsen la presencia en línea de las empresas y mejoren la experiencia de los usuarios. ¡Estoy listo para enfrentar nuevos retos y hacer realidad ideas creativas! Empecé en el mundo de la programación cuando inicié mi carrera de ingeniería en sistemas, empezando a aprender de manera didáctica fuí desarrollando pequeños proyectos y hoy manejo tecnologías y herramientas como: React Node Express y base de datos como PostgreSQL y MySQL.
+
+- 🔭 Trabajé en el desarollo de aplicaciones como [PI Food](pi-food-main-pied.vercel.app)
+- 🔭 Trabaje en equipo en el desarrollo de un ecommerce destinado a la venta de libros [The Literary Corner](pf-henry-bookstore.vercel.app)
 - 🌱 Actualmente aprendiendo **React Native, Python**
+- 👨‍💻 Me gusta trabar en equipo
 - 👨‍💻 Mi portafolio [robledolucas.vercel.app](robledolucas.vercel.app)
 
 - 📫 Mi correo **lucas3leo94@gmail.com**
