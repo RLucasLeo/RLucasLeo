@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Lucas</h1>
 <h3 align="center">Un apasionado desarrollador fullstack de Argentina</h3>
 
+- Empecé en el mundo de la programación cuando inicié mi carrera de ingeniería en sistemas, empezando a aprender de manera didáctica fuí desarrollando pequeños proyectos y hoy manejo tecnologías y herramientas como: React Node Express y base de datos como PostgreSQL y MySQL.
+- Me gusta trabajar el desarrollo frontend aunque tambien se desempeñarme en el backend
 - 🔭 Trabajé en el desarollo de aplicaciones como [PI Food](-food-main-pied.vercel.app)
 - 🔭 Trabaje en equipo en el desarrollo de un ecommerce destinado a la venta de libros [The Literary Corner](-henry-bookstore.vercel.app)
 - 🌱 Actualmente aprendiendo **React Native, Python**
-- Empecé en el mundo de la programación cuando inicié mi carrera de ingeniería en sistemas, empezando a aprender de manera didáctica fuí desarrollando pequeños proyectos y hoy manejo tecnologías y herramientas como: React Node Express y base de datos como PostgreSQL y MySQL.
-- Me gusta trabajar el desarrollo frontend aunque tambien se desempeñarme en el backend
 - 👨‍💻 Mi portafolio [robledolucas.vercel.app](robledolucas.vercel.app)
 
 - 📫 Mi correo **lucas3leo94@gmail.com**
